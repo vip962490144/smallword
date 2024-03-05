@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b01c202-a1fa-4051-afdd-0f435bd0e5de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cases/user/user_generated.py" beforeDir="false" afterPath="$PROJECT_DIR$/cases/user/user_generated.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_party_packet_py.coverage" NAME="Unittests in test_party_packet.py Coverage Results" MODIFIED="1586772704087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_world_redpacket_py.coverage" NAME="Unittests in test_world_redpacket.py Coverage Results" MODIFIED="1586772737539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$friend_base.coverage" NAME="friend_base Coverage Results" MODIFIED="1581403600476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/friend_and_chat" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_user_base_info_py.coverage" NAME="Unittests in test_user_base_info.py Coverage Results" MODIFIED="1583208880396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/user" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_gift_record_py.coverage" NAME="Unittests in test_gift_record.py Coverage Results" MODIFIED="1583227219504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/freid" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$file_test.coverage" NAME="file_test Coverage Results" MODIFIED="1583295962896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_club_game_packet_py.coverage" NAME="Unittests in test_club_game_packet.py Coverage Results" MODIFIED="1582792854992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$handle_log.coverage" NAME="handle_log Coverage Results" MODIFIED="1583136249681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_03_record_gift_py.coverage" NAME="Unittests in test_03_record_gift.py Coverage Results" MODIFIED="1586958859527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/gift" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_world_question_py.coverage" NAME="Unittests in test_world_question.py Coverage Results" MODIFIED="1586772719271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_03_send_worldredpacket_py.coverage" NAME="Unittests in test_03_send_worldredpacket.py Coverage Results" MODIFIED="1586772661271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_for_test_01_send_clubredpacket_SendClubsredpacket.coverage" NAME="Unittests for test_01_send_clubredpacket.SendClubsredpacket Coverage Results" MODIFIED="1586605556252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/FjnaceAPITest$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1560257486445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_01_send_clubredpacket_py.coverage" NAME="Unittests in test_01_send_clubredpacket.py Coverage Results" MODIFIED="1586772648814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1583217525900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_clubs_packet_py.coverage" NAME="Unittests in test_clubs_packet.py Coverage Results" MODIFIED="1582792882776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_02_recive_gift_py.coverage" NAME="Unittests in test_02_recive_gift.py Coverage Results" MODIFIED="1586960842543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/gift" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_for_test_gift_record_GiftRecord_test_case_01.coverage" NAME="Unittests for test_gift_record.GiftRecord.test_case_01 Coverage Results" MODIFIED="1581320713432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_introduce_receive_py.coverage" NAME="Unittests in test_introduce_receive.py Coverage Results" MODIFIED="1583228618040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/user" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_world_question_py.coverage" NAME="Unittests in test_world_question.py Coverage Results" MODIFIED="1583227033034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/world" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_for_test_introduce_receive_IntroduceReceive_test_case_01.coverage" NAME="Unittests for test_introduce_receive.IntroduceReceive.test_case_01 Coverage Results" MODIFIED="1581399527205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_for_test_send_gift_SendGift_test_case_01.coverage" NAME="Unittests for test_send_gift.SendGift.test_case_01 Coverage Results" MODIFIED="1584591516377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/gift" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$test_01_userinfo.coverage" NAME="test_01_userinfo Coverage Results" MODIFIED="1586954458750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../SmallWorld/smallworldAPITest - unit/cases/user" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$user_base.coverage" NAME="user_base Coverage Results" MODIFIED="1583204823340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/user_info" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_send_gift_py.coverage" NAME="Unittests in test_send_gift.py Coverage Results" MODIFIED="1584592215271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/gift" />
+    <SUITE FILE_PATH="coverage/FjnaceAPITest$Unittests_in_test_01_Login_py.coverage" NAME="Unittests in test_01_Login.py Coverage Results" MODIFIED="1560257437549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_world_redpacket_py.coverage" NAME="Unittests in test_world_redpacket.py Coverage Results" MODIFIED="1583135744223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1586962057512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_01_Login_py.coverage" NAME="Unittests in test_01_Login.py Coverage Results" MODIFIED="1583210219213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_party_packet_py.coverage" NAME="Unittests in test_party_packet.py Coverage Results" MODIFIED="1582793016538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest$Unittests_in_test_apply_guess_py.coverage" NAME="Unittests in test_apply_guess.py Coverage Results" MODIFIED="1582796066598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_01_Login_py.coverage" NAME="Unittests in test_01_Login.py Coverage Results" MODIFIED="1586605372402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/login" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_clubs_packet_py.coverage" NAME="Unittests in test_clubs_packet.py Coverage Results" MODIFIED="1586772688275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_club_game_packet_py.coverage" NAME="Unittests in test_club_game_packet.py Coverage Results" MODIFIED="1586772666337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_02_send_partredpacket_py.coverage" NAME="Unittests in test_02_send_partredpacket.py Coverage Results" MODIFIED="1586772656005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/redpacket" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$Unittests_in_test_introduce_receive_py.coverage" NAME="Unittests in test_introduce_receive.py Coverage Results" MODIFIED="1586774474982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/user" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1762162000</find>
+      <find>interest</find>
+      <find>send_time</find>
+      <find>shell</find>
+      <find>send</find>
+      <find>update</find>
+      <find>competition/submit</find>
+      <find>url</find>
+      <find>regi</find>
+      <find>获取发布</find>
+      <find>设置写真集</find>
+      <find>更改审核内容状态</find>
+      <find>12703</find>
+      <find>72</find>
+      <find>资格审核</find>
+      <find>12707</find>
+      <find>user_config_status</find>
+      <find>check_apply</find>
+      <find>获取主题列表</find>
+      <find>新增主题</find>
+      <find>内容审核</find>
+      <find>内容</find>
+      <find>写真集列表</find>
+      <find>check_status</find>
+      <find>rank</find>
+      <find>ran</find>
+      <find>submit_like</find>
+      <find>1836083</find>
+      <find>star</find>
+      <find>avatar_frame</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cases/gift/__init__.py" />
+        <option value="$PROJECT_DIR$/scripts/handle_excel.py" />
+        <option value="$PROJECT_DIR$/cases/discoveries/test_apply_guess.py" />
+        <option value="$PROJECT_DIR$/cases/gift/test_record_gift.py" />
+        <option value="$PROJECT_DIR$/run_test.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/test_club_game_packet.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/test_clubs_welfare_packet.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/test_world_redpacket.py" />
+        <option value="$PROJECT_DIR$/scripts/activities_and_discoveries/file_base.py" />
+        <option value="$PROJECT_DIR$/cases/discoveries/photo_album.py" />
+        <option value="$PROJECT_DIR$/cases/discoveries/Photo_album_review.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/test_club_everyday_packet.py" />
+        <option value="$PROJECT_DIR$/scripts/clubs/club_base.py" />
+        <option value="$PROJECT_DIR$/cases/clubs_partys/test_careate_clubs.py" />
+        <option value="$PROJECT_DIR$/cases/gift/test_02_recive_gift.py" />
+        <option value="$PROJECT_DIR$/cases/clubs_partys/q3.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/club_secretary_packet.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/gift_lottery.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/multiprocessing_gifts_redpacket_test.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/gift_draw.py" />
+        <option value="$PROJECT_DIR$/configs/test_user_100.txt" />
+        <option value="$PROJECT_DIR$/scripts/activities_and_discoveries/discover_base.py" />
+        <option value="$PROJECT_DIR$/scripts/partys/party_base.py" />
+        <option value="$PROJECT_DIR$/scripts/backend/backend_base.py" />
+        <option value="$PROJECT_DIR$/cases/discoveries/test_party_close.py" />
+        <option value="$PROJECT_DIR$/cases/discoveries/competition_video.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/threading_thread.py" />
+        <option value="$PROJECT_DIR$/configs/test_user_5.txt" />
+        <option value="$PROJECT_DIR$/cases/user/user_generated.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/multiprocessing_test_login.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/threading_thread_login_test.py" />
+        <option value="$PROJECT_DIR$/scripts/my.csv" />
+        <option value="$PROJECT_DIR$/cases/redpacket/test_firework_redpacket.py" />
+        <option value="$PROJECT_DIR$/configs/config.conf" />
+        <option value="$PROJECT_DIR$/scripts/debug.py" />
+        <option value="$PROJECT_DIR$/scripts/test_endtime.py" />
+        <option value="$PROJECT_DIR$/configs/token.txt" />
+        <option value="$PROJECT_DIR$/scripts/logins/login_base.py" />
+        <option value="$PROJECT_DIR$/scripts/username.py" />
+        <option value="$PROJECT_DIR$/scripts/redpackets/redpacket_base.py" />
+        <option value="$PROJECT_DIR$/cases/user/user_update.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/revices_firework.py" />
+        <option value="$PROJECT_DIR$/scripts/Base.py" />
+        <option value="$PROJECT_DIR$/scripts/constants.py" />
+        <option value="$PROJECT_DIR$/configs/test_user_8.txt" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/multiprocessing_club_redpacket_test.py" />
+        <option value="$PROJECT_DIR$/cases/clubs_partys/test_01_club_info_update.py" />
+        <option value="$PROJECT_DIR$/Threading_thread_test/send_firework.py" />
+        <option value="$PROJECT_DIR$/cases/clubs_partys/socket_test.py" />
+        <option value="$PROJECT_DIR$/cases/redpacket/send_redpacket.py" />
+        <option value="$PROJECT_DIR$/cases/clubs_partys/send_club_msg.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1947" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectId" id="22lDwcYEAdEqbmq00pESEHjXjJT" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+              <item name="clubs_partys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="configs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="clubs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="logins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="partys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="redpackets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="user_info" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smallworldAPITest - unit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smallworldAPITest - unit" type="462c0819:PsiDirectoryNode" />
+              <item name="Threading_thread_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Miniworld/Miniworld" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="FjnaceAPITest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="FjnaceAPITest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\cases\clubs_partys" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\Threading_thread_test" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\cases\discoveries" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\cases\redpacket" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\configs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\cases\redpacket" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\cases\clubs_partys" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\scripts\redpackets" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\scripts\activities_and_discoveries" />
+      <recent name="D:\files\items\automation\SmollWorld\smallworldAPITest - unit\scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.user_generated">
+    <configuration name="friend_add" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FjnaceAPITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Threading_thread_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Threading_thread_test/friend_add.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="friend_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FjnaceAPITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/friend_and_chat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/friend_and_chat/friend_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FjnaceAPITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/logins" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/logins/login_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_redpacket" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FjnaceAPITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases/redpacket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/redpacket/send_redpacket.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="user_generated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FjnaceAPITest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cases/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cases/user/user_generated.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.user_generated" />
+        <item itemvalue="Python.friend_add" />
+        <item itemvalue="Python.login_base" />
+        <item itemvalue="Python.friend_base" />
+        <item itemvalue="Python.send_redpacket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86176\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b01c202-a1fa-4051-afdd-0f435bd0e5de" name="Default Changelist" comment="" />
+      <created>1560257179959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560257179959</updated>
+      <workItem from="1560257181235" duration="347000" />
+      <workItem from="1581320575278" duration="1323000" />
+      <workItem from="1581390527814" duration="9883000" />
+      <workItem from="1581406117035" duration="627000" />
+      <workItem from="1581574240116" duration="1933000" />
+      <workItem from="1581929975660" duration="2009000" />
+      <workItem from="1582001327338" duration="1391000" />
+      <workItem from="1582177804187" duration="797000" />
+      <workItem from="1582526363714" duration="3192000" />
+      <workItem from="1582792816150" duration="1443000" />
+      <workItem from="1583125573035" duration="2477000" />
+      <workItem from="1583204211950" duration="22673000" />
+      <workItem from="1583290153671" duration="6985000" />
+      <workItem from="1583301659745" duration="1171000" />
+      <workItem from="1584586972860" duration="9931000" />
+      <workItem from="1586328893664" duration="1528000" />
+      <workItem from="1586437749452" duration="664000" />
+      <workItem from="1586605226682" duration="2250000" />
+      <workItem from="1586772359248" duration="2246000" />
+      <workItem from="1586953933286" duration="152000" />
+      <workItem from="1586954086847" duration="7483000" />
+      <workItem from="1586962607859" duration="8000" />
+      <workItem from="1586962941044" duration="5000" />
+      <workItem from="1586964725581" duration="5000" />
+      <workItem from="1640403523198" duration="2086000" />
+      <workItem from="1640519651685" duration="1243000" />
+      <workItem from="1644720119800" duration="719000" />
+      <workItem from="1655440219554" duration="2321000" />
+      <workItem from="1655451311873" duration="10172000" />
+      <workItem from="1655776601360" duration="88061000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_club_everyday_packet_py - 2020.10.12 at 15h 05m 44s.xml">
+      <configuration name="Unittests in test_club_everyday_packet.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_party_close_PartyClose_test_case_01 - 2020.12.14 at 14h 51m 36s.xml">
+      <configuration name="Unittests for test_party_close.PartyClose.test_case_01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 14h 52m 17s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 14h 53m 13s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 14h 55m 18s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 14h 55m 33s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 15h 02m 16s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 15h 03m 24s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_party_close_py - 2020.12.14 at 15h 30m 41s.xml">
+      <configuration name="Unittests in test_party_close.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_user_update_py - 2020.12.29 at 17h 01m 16s.xml">
+      <configuration name="Unittests in user_update.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80523000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14225501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49157894" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.44526315" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.50526315" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.55368423" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49947312" weight="0.39747635" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3273684" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16965227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3105263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44526315" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.50526315" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.55368423" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3273684" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/friend_and_chat/friend_base.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$login_base.coverage" NAME="login_base Coverage Results" MODIFIED="1655800984993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/logins" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$friend_base.coverage" NAME="friend_base Coverage Results" MODIFIED="1655454635252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/friend_and_chat" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$friend_add.coverage" NAME="friend_add Coverage Results" MODIFIED="1655816219287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Threading_thread_test" />
+    <SUITE FILE_PATH="coverage/smallworldAPITest___unit$user_generated.coverage" NAME="user_generated Coverage Results" MODIFIED="1656252138702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases/user" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/threading_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="191" column="16" selection-start-line="191" selection-start-column="16" selection-end-line="191" selection-end-column="16" />
+          <folding>
+            <element signature="e#47#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/handle_pymusql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2142" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="66" column="39" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/test_user_100.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/gevent/os.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/token.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu2019.1/system/python_stubs/-1229996072/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="173" column="7" lean-forward="true" selection-start-line="173" selection-start-column="7" selection-end-line="173" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/handle_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/user/user_generated.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4116">
+          <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/test_user.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_world_redpacket_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3402">
+          <caret line="99" column="18" lean-forward="true" selection-end-line="107" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/debug.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="101" column="40" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/user/user_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/username.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+          <folding>
+            <element signature="e#47#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_world_question_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="150" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_world_redpacket_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3150">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/clubs/club_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1134" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/test_user4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4158" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="47" column="31" selection-start-line="47" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/test_user_8.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_party_redpacket_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11088">
+          <caret line="271" selection-start-line="271" selection-end-line="271" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/partys/party_base.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/user_info/user_base.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/multiprocessing_club_redpacket_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5922">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/test_01_club_info_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="67" column="67" selection-start-line="67" selection-start-column="67" selection-end-line="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/revices_firework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="55" column="23" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/test_careate_clubs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/redpacket/test_01_send_clubredpacket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="63" column="60" selection-start-line="51" selection-start-column="8" selection-end-line="63" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/redpacket/club_secretary_packet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/test_club_apply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Threading_thread_test/send_firework.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/clubs_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/logins/login_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="29" column="21" selection-start-line="12" selection-start-column="4" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/adapters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="519" lean-forward="true" selection-start-line="519" selection-end-line="519" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/redpackets/redpacket_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/workspace/smallworld/socket_1/q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="74" column="34" selection-start-line="74" selection-start-column="34" selection-end-line="74" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="919" column="19" lean-forward="true" selection-start-line="919" selection-start-column="19" selection-end-line="919" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/socketio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="374" selection-start-line="374" selection-end-line="374" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="277" selection-start-line="277" selection-end-line="277" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/engineio/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/uuid.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/sss_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/config.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="51" lean-forward="true" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/send_club_msg111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="90" column="6" lean-forward="true" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/socketio/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="157" column="32" selection-start-line="157" selection-start-column="32" selection-end-line="157" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/clubs_partys/send_club_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="114" column="14" lean-forward="true" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cases/redpacket/send_redpacket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+          <folding>
+            <element signature="e#47#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1261034" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
